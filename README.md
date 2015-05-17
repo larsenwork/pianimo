@@ -1,6 +1,7 @@
 #Pianimo
 The AnimalNoteHeads iOS Piano app.
 
+![Screenshot](http://animalnoteheads.com/assets/img/jumbo1.jpg)
 
 ###License
 
