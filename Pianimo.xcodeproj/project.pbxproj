@@ -7,12 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		015082071B055C000022885D /* LoadBG.png in Resources */ = {isa = PBXBuildFile; fileRef = 015082021B055C000022885D /* LoadBG.png */; };
+		019598F31B061CF4005A23CC /* cis4.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 019598E51B061CF4005A23CC /* cis4.aiff */; };
+		019598F41B061CF4005A23CC /* c4.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 019598E61B061CF4005A23CC /* c4.aiff */; };
+		019598F51B061CF4005A23CC /* h3.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 019598E71B061CF4005A23CC /* h3.aiff */; };
+		019598F61B061CF4005A23CC /* as3.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 019598E81B061CF4005A23CC /* as3.aiff */; };
+		019598F71B061CF4005A23CC /* a3.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 019598E91B061CF4005A23CC /* a3.aiff */; };
+		019598F81B061CF4005A23CC /* gis3.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 019598EA1B061CF4005A23CC /* gis3.aiff */; };
+		019598F91B061CF4005A23CC /* g3.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 019598EB1B061CF4005A23CC /* g3.aiff */; };
+		019598FA1B061CF4005A23CC /* fis3.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 019598EC1B061CF4005A23CC /* fis3.aiff */; };
+		019598FB1B061CF4005A23CC /* f3.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 019598ED1B061CF4005A23CC /* f3.aiff */; };
+		019598FC1B061CF4005A23CC /* e3.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 019598EE1B061CF4005A23CC /* e3.aiff */; };
+		019598FD1B061CF4005A23CC /* dis3.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 019598EF1B061CF4005A23CC /* dis3.aiff */; };
+		019598FE1B061CF4005A23CC /* d3.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 019598F01B061CF4005A23CC /* d3.aiff */; };
+		019598FF1B061CF4005A23CC /* cis3.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 019598F11B061CF4005A23CC /* cis3.aiff */; };
+		019599001B061CF4005A23CC /* c3.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 019598F21B061CF4005A23CC /* c3.aiff */; };
+		019599091B061D23005A23CC /* A-en-color@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 019599021B061D23005A23CC /* A-en-color@3x.png */; };
+		0195990A1B061D23005A23CC /* B-en-color@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 019599031B061D23005A23CC /* B-en-color@3x.png */; };
+		0195990B1B061D23005A23CC /* C-en-color@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 019599041B061D23005A23CC /* C-en-color@3x.png */; };
+		0195990C1B061D23005A23CC /* D-en-color@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 019599051B061D23005A23CC /* D-en-color@3x.png */; };
+		0195990D1B061D23005A23CC /* E-en-color@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 019599061B061D23005A23CC /* E-en-color@3x.png */; };
+		0195990E1B061D23005A23CC /* F-en-color@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 019599071B061D23005A23CC /* F-en-color@3x.png */; };
+		0195990F1B061D23005A23CC /* G-en-color@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 019599081B061D23005A23CC /* G-en-color@3x.png */; };
 		01AF448B1B026191008F233C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01AF448A1B026191008F233C /* AppDelegate.swift */; };
 		01AF448D1B026191008F233C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01AF448C1B026191008F233C /* ViewController.swift */; };
 		01AF44901B026191008F233C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01AF448E1B026191008F233C /* Main.storyboard */; };
 		01AF44921B026191008F233C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01AF44911B026191008F233C /* Images.xcassets */; };
 		01AF44951B026192008F233C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 01AF44931B026192008F233C /* LaunchScreen.xib */; };
 		01AF44A11B026192008F233C /* AnimalNoteHeadsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01AF44A01B026192008F233C /* AnimalNoteHeadsTests.swift */; };
+		01AF44AB1B02696A008F233C /* Gidole-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 01AF44AA1B02696A008F233C /* Gidole-Regular.ttf */; };
+		01E6403D1B03DE4B0008B2BB /* PianoSounds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01E6403C1B03DE4B0008B2BB /* PianoSounds.swift */; };
+		01E6403F1B03E8BB0008B2BB /* KeyButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01E6403E1B03E8BB0008B2BB /* KeyButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,6 +51,28 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		015082021B055C000022885D /* LoadBG.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LoadBG.png; sourceTree = "<group>"; };
+		019598E51B061CF4005A23CC /* cis4.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; name = cis4.aiff; path = "Sounds/Würli/cis4.aiff"; sourceTree = "<group>"; };
+		019598E61B061CF4005A23CC /* c4.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; name = c4.aiff; path = "Sounds/Würli/c4.aiff"; sourceTree = "<group>"; };
+		019598E71B061CF4005A23CC /* h3.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; name = h3.aiff; path = "Sounds/Würli/h3.aiff"; sourceTree = "<group>"; };
+		019598E81B061CF4005A23CC /* as3.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; name = as3.aiff; path = "Sounds/Würli/as3.aiff"; sourceTree = "<group>"; };
+		019598E91B061CF4005A23CC /* a3.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; name = a3.aiff; path = "Sounds/Würli/a3.aiff"; sourceTree = "<group>"; };
+		019598EA1B061CF4005A23CC /* gis3.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; name = gis3.aiff; path = "Sounds/Würli/gis3.aiff"; sourceTree = "<group>"; };
+		019598EB1B061CF4005A23CC /* g3.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; name = g3.aiff; path = "Sounds/Würli/g3.aiff"; sourceTree = "<group>"; };
+		019598EC1B061CF4005A23CC /* fis3.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; name = fis3.aiff; path = "Sounds/Würli/fis3.aiff"; sourceTree = "<group>"; };
+		019598ED1B061CF4005A23CC /* f3.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; name = f3.aiff; path = "Sounds/Würli/f3.aiff"; sourceTree = "<group>"; };
+		019598EE1B061CF4005A23CC /* e3.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; name = e3.aiff; path = "Sounds/Würli/e3.aiff"; sourceTree = "<group>"; };
+		019598EF1B061CF4005A23CC /* dis3.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; name = dis3.aiff; path = "Sounds/Würli/dis3.aiff"; sourceTree = "<group>"; };
+		019598F01B061CF4005A23CC /* d3.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; name = d3.aiff; path = "Sounds/Würli/d3.aiff"; sourceTree = "<group>"; };
+		019598F11B061CF4005A23CC /* cis3.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; name = cis3.aiff; path = "Sounds/Würli/cis3.aiff"; sourceTree = "<group>"; };
+		019598F21B061CF4005A23CC /* c3.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; name = c3.aiff; path = "Sounds/Würli/c3.aiff"; sourceTree = "<group>"; };
+		019599021B061D23005A23CC /* A-en-color@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "A-en-color@3x.png"; path = "Heads/A-en-color@3x.png"; sourceTree = "<group>"; };
+		019599031B061D23005A23CC /* B-en-color@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "B-en-color@3x.png"; path = "Heads/B-en-color@3x.png"; sourceTree = "<group>"; };
+		019599041B061D23005A23CC /* C-en-color@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "C-en-color@3x.png"; path = "Heads/C-en-color@3x.png"; sourceTree = "<group>"; };
+		019599051B061D23005A23CC /* D-en-color@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "D-en-color@3x.png"; path = "Heads/D-en-color@3x.png"; sourceTree = "<group>"; };
+		019599061B061D23005A23CC /* E-en-color@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "E-en-color@3x.png"; path = "Heads/E-en-color@3x.png"; sourceTree = "<group>"; };
+		019599071B061D23005A23CC /* F-en-color@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "F-en-color@3x.png"; path = "Heads/F-en-color@3x.png"; sourceTree = "<group>"; };
+		019599081B061D23005A23CC /* G-en-color@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "G-en-color@3x.png"; path = "Heads/G-en-color@3x.png"; sourceTree = "<group>"; };
 		01AF44851B026191008F233C /* AnimalNoteHeads.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnimalNoteHeads.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		01AF44891B026191008F233C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		01AF448A1B026191008F233C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -36,6 +83,9 @@
 		01AF449A1B026192008F233C /* AnimalNoteHeadsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnimalNoteHeadsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		01AF449F1B026192008F233C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		01AF44A01B026192008F233C /* AnimalNoteHeadsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalNoteHeadsTests.swift; sourceTree = "<group>"; };
+		01AF44AA1B02696A008F233C /* Gidole-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gidole-Regular.ttf"; sourceTree = "<group>"; };
+		01E6403C1B03DE4B0008B2BB /* PianoSounds.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PianoSounds.swift; path = AnimalNoteHeads/PianoSounds.swift; sourceTree = "<group>"; };
+		01E6403E1B03E8BB0008B2BB /* KeyButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = KeyButton.swift; path = AnimalNoteHeads/KeyButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,12 +106,49 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		019598E41B061CE3005A23CC /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				019598E51B061CF4005A23CC /* cis4.aiff */,
+				019598E61B061CF4005A23CC /* c4.aiff */,
+				019598E71B061CF4005A23CC /* h3.aiff */,
+				019598E81B061CF4005A23CC /* as3.aiff */,
+				019598E91B061CF4005A23CC /* a3.aiff */,
+				019598EA1B061CF4005A23CC /* gis3.aiff */,
+				019598EB1B061CF4005A23CC /* g3.aiff */,
+				019598EC1B061CF4005A23CC /* fis3.aiff */,
+				019598ED1B061CF4005A23CC /* f3.aiff */,
+				019598EE1B061CF4005A23CC /* e3.aiff */,
+				019598EF1B061CF4005A23CC /* dis3.aiff */,
+				019598F01B061CF4005A23CC /* d3.aiff */,
+				019598F11B061CF4005A23CC /* cis3.aiff */,
+				019598F21B061CF4005A23CC /* c3.aiff */,
+			);
+			name = Sounds;
+			sourceTree = "<group>";
+		};
+		019599011B061D06005A23CC /* Heads */ = {
+			isa = PBXGroup;
+			children = (
+				019599021B061D23005A23CC /* A-en-color@3x.png */,
+				019599031B061D23005A23CC /* B-en-color@3x.png */,
+				019599041B061D23005A23CC /* C-en-color@3x.png */,
+				019599051B061D23005A23CC /* D-en-color@3x.png */,
+				019599061B061D23005A23CC /* E-en-color@3x.png */,
+				019599071B061D23005A23CC /* F-en-color@3x.png */,
+				019599081B061D23005A23CC /* G-en-color@3x.png */,
+			);
+			name = Heads;
+			sourceTree = "<group>";
+		};
 		01AF447C1B026191008F233C = {
 			isa = PBXGroup;
 			children = (
 				01AF44871B026191008F233C /* AnimalNoteHeads */,
 				01AF449D1B026192008F233C /* AnimalNoteHeadsTests */,
 				01AF44861B026191008F233C /* Products */,
+				01E6403C1B03DE4B0008B2BB /* PianoSounds.swift */,
+				01E6403E1B03E8BB0008B2BB /* KeyButton.swift */,
 			);
 			sourceTree = "<group>";
 		};
@@ -90,6 +177,10 @@
 		01AF44881B026191008F233C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				019599011B061D06005A23CC /* Heads */,
+				019598E41B061CE3005A23CC /* Sounds */,
+				01AF44AA1B02696A008F233C /* Gidole-Regular.ttf */,
+				015082021B055C000022885D /* LoadBG.png */,
 				01AF44891B026191008F233C /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -161,6 +252,7 @@
 				TargetAttributes = {
 					01AF44841B026191008F233C = {
 						CreatedOnToolsVersion = 6.3.1;
+						DevelopmentTeam = 57TTU3WQ45;
 					};
 					01AF44991B026192008F233C = {
 						CreatedOnToolsVersion = 6.3.1;
@@ -168,7 +260,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 01AF44801B026191008F233C /* Build configuration list for PBXProject "AnimalNoteHeads" */;
+			buildConfigurationList = 01AF44801B026191008F233C /* Build configuration list for PBXProject "Piano" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -192,9 +284,32 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0195990D1B061D23005A23CC /* E-en-color@3x.png in Resources */,
+				019598F91B061CF4005A23CC /* g3.aiff in Resources */,
+				019598F31B061CF4005A23CC /* cis4.aiff in Resources */,
 				01AF44901B026191008F233C /* Main.storyboard in Resources */,
+				0195990F1B061D23005A23CC /* G-en-color@3x.png in Resources */,
+				019598FC1B061CF4005A23CC /* e3.aiff in Resources */,
+				019598F41B061CF4005A23CC /* c4.aiff in Resources */,
+				019598FA1B061CF4005A23CC /* fis3.aiff in Resources */,
+				0195990E1B061D23005A23CC /* F-en-color@3x.png in Resources */,
+				01AF44AB1B02696A008F233C /* Gidole-Regular.ttf in Resources */,
+				015082071B055C000022885D /* LoadBG.png in Resources */,
+				0195990B1B061D23005A23CC /* C-en-color@3x.png in Resources */,
+				019599091B061D23005A23CC /* A-en-color@3x.png in Resources */,
+				019598F71B061CF4005A23CC /* a3.aiff in Resources */,
+				0195990A1B061D23005A23CC /* B-en-color@3x.png in Resources */,
+				019599001B061CF4005A23CC /* c3.aiff in Resources */,
+				019598FD1B061CF4005A23CC /* dis3.aiff in Resources */,
+				019598FF1B061CF4005A23CC /* cis3.aiff in Resources */,
+				019598F81B061CF4005A23CC /* gis3.aiff in Resources */,
+				019598FE1B061CF4005A23CC /* d3.aiff in Resources */,
+				019598F51B061CF4005A23CC /* h3.aiff in Resources */,
+				019598F61B061CF4005A23CC /* as3.aiff in Resources */,
+				019598FB1B061CF4005A23CC /* f3.aiff in Resources */,
 				01AF44951B026192008F233C /* LaunchScreen.xib in Resources */,
 				01AF44921B026191008F233C /* Images.xcassets in Resources */,
+				0195990C1B061D23005A23CC /* D-en-color@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -212,8 +327,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				01E6403D1B03DE4B0008B2BB /* PianoSounds.swift in Sources */,
 				01AF448D1B026191008F233C /* ViewController.swift in Sources */,
 				01AF448B1B026191008F233C /* AppDelegate.swift in Sources */,
+				01E6403F1B03E8BB0008B2BB /* KeyButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -342,9 +459,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = AnimalNoteHeads/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -352,9 +472,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = AnimalNoteHeads/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
@@ -395,7 +518,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		01AF44801B026191008F233C /* Build configuration list for PBXProject "AnimalNoteHeads" */ = {
+		01AF44801B026191008F233C /* Build configuration list for PBXProject "Piano" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				01AF44A21B026192008F233C /* Debug */,
@@ -411,6 +534,7 @@
 				01AF44A61B026192008F233C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		01AF44A71B026192008F233C /* Build configuration list for PBXNativeTarget "AnimalNoteHeadsTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +543,7 @@
 				01AF44A91B026192008F233C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
