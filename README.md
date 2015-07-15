@@ -5,7 +5,7 @@ The AnimalNoteHeads iOS Piano app.
 
 ###License
 
-The graphics used in this app are Copyright (c) 2015 Andreas Larsen. Everything else is:
+The Animal Note Heads are Copyright (c) 2015 Andreas Larsen, free for private use only. Everything else is:
 
 #####The MIT License (MIT)
 

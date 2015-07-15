@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BF7A9549-96EC-4522-9954-152BD66F6BDE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Pianimo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>77CA20D43E3E1370DD804FAB4CC66E2321F13940</key>
+		<string>https://github.com/larsenwork/pianimo</string>
+		<key>9C67F3DB5D00DF6D7A4330ACCC21EE63A4B24352</key>
+		<string>https://github.com/dtinth/YosemiteSystemFontPatcher.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Pianimo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>77CA20D43E3E1370DD804FAB4CC66E2321F13940</key>
+		<string>../..</string>
+		<key>9C67F3DB5D00DF6D7A4330ACCC21EE63A4B24352</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/larsenwork/pianimo</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>77CA20D43E3E1370DD804FAB4CC66E2321F13940</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9C67F3DB5D00DF6D7A4330ACCC21EE63A4B24352</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>77CA20D43E3E1370DD804FAB4CC66E2321F13940</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Pianimo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
